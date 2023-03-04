@@ -1,0 +1,15 @@
+C:\Users\logan\source\repos\Fakebook\Fakebook\bin\Debug\net6.0\Fakebook.exe
+C:\Users\logan\source\repos\Fakebook\Fakebook\bin\Debug\net6.0\Fakebook.deps.json
+C:\Users\logan\source\repos\Fakebook\Fakebook\bin\Debug\net6.0\Fakebook.runtimeconfig.json
+C:\Users\logan\source\repos\Fakebook\Fakebook\bin\Debug\net6.0\Fakebook.dll
+C:\Users\logan\source\repos\Fakebook\Fakebook\bin\Debug\net6.0\Fakebook.pdb
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.AssemblyInfo.cs
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.dll
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\refint\Fakebook.dll
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.pdb
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\Fakebook.genruntimeconfig.cache
+C:\Users\logan\source\repos\Fakebook\Fakebook\obj\Debug\net6.0\ref\Fakebook.dll
